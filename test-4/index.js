@@ -66,6 +66,10 @@
 // we can add an event listener to a parent element and call an event on a particular target using the 
 // target property of the event object.
 
+// Q12
+// An event loop is something that pulls stuff out of the queue and places it onto
+//  the function execution stack whenever the function stack becomes empty. 
+// The event loop is the secret by which JavaScript gives us an illusion of being multithreaded even though it is single-threaded.
 
 
 
